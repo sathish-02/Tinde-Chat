@@ -1,4 +1,3 @@
-
 # Tinde-Chatter
 
 Tinde-Chater is a Full Stack Chatting App.
@@ -70,6 +69,3 @@ Start the Client
 ### View Other user Profile
 ![image](https://user-images.githubusercontent.com/81190422/165007413-442dd769-0887-4e4a-aabd-90681675f8e6.png)
 
-
-
-  
